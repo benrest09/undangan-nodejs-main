@@ -1,0 +1,26 @@
+{
+  "name": "undangan-nikah",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "author": "Ryan Faiz Sanie",
+  "license": "MIT",
+  "private": true,
+  "engines": {
+    "node": "20.x"
+  },
+  "scripts": {
+    "start": "node app/index.js",
+    "dev": "nodemon app/index.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "express-ejs-layouts": "^2.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "description": "## Setup 1.  Download atau clone repository 2.  Buka project menggunakan code editor (direkomendasikan menggunakan Visual Studio Code) 3.  Jalankan setup project dengan perintah `yarn add` 4.  Buka file di dalam folder `/app/database/` 5.  File `index.js` digunakan untuk konfigurasi data undangan 6.  File `tamu.js` digunakan untuk database tamu undangan",
+  "keywords": []
+}
