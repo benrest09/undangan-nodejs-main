@@ -1,21 +1,21 @@
 const data = {
-  "meta-title": "The Wedding of Iwan Apandi & Mariam Puspita Dewi",
-  "meta-desc": "The Wedding of Iwan Apandi & Mariam Puspita Dewi",
+  "meta-title": "Engagement of Iwan Apandi & Mariam Puspita Dewi",
+  "meta-desc": "Engagement of Iwan Apandi & Mariam Puspita Dewi",
   "meta-keyword": "wedding, wedding invitation, invitation, the wedding",
   "meta-author": "Iwan Apandi & Mariam Puspita Dewi",
   "meta-icon": "/images/half cicle flower.png",
 
   "meta-og-type": "website",
-  "meta-og-title": "The Wedding of Iwan Apandi & Mariam Puspita Dewi",
+  "meta-og-title": "Engagement of Iwan Apandi & Mariam Puspita Dewi",
   "meta-og-image": "/images/half cicle flower.png",
-  "meta-og-site-name": "The Wedding of Iwan Apandi & Mariam Puspita Dewi",
+  "meta-og-site-name": "Engagement of Iwan Apandi & Mariam Puspita Dewi",
   "meta-og-desc": "",
 
   "meta-twitter-card": "summary_large_image",
   "meta-twiter-site": "",
   "meta-twitter-creator": "@",
-  "meta-twitter-title": "The Wedding of Iwan Apandi & Mariam Puspita Dewi",
-  "meta-twitter-desc": "The Wedding of Iwan Apandi & Mariam Puspita Dewi",
+  "meta-twitter-title": "Engagement of Iwan Apandi & Mariam Puspita Dewi",
+  "meta-twitter-desc": "Engagement of Iwan Apandi & Mariam Puspita Dewi",
   "meta-twitter-image": "",
   "meta-twitter-url": "",
 
