@@ -20,7 +20,7 @@ const data = {
   "meta-twitter-url": "",
 
   "nama-pasangan": "Iwan Apandi & Mariam Puspita Dewi",
-  "foto-pasangan-undangan": "",
+  "foto-pasangan-undangan": "/images/couple/couple.jpeg",
   "tanggal-pernikahan-full": "2024-06-15",
   "tanggal-pernikahan": 15,
   "bulan-pernikahan": 6,
