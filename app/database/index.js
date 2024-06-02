@@ -3,11 +3,11 @@ const data = {
   "meta-desc": "Engagement of Iwan Apandi & Mariam Puspita Dewi",
   "meta-keyword": "wedding, wedding invitation, invitation, the wedding",
   "meta-author": "Iwan Apandi & Mariam Puspita Dewi",
-  "meta-icon": "/images/half cicle flower.png",
+  "meta-icon": "/images/couple/couple.jpeg",
 
   "meta-og-type": "website",
   "meta-og-title": "Engagement of Iwan Apandi & Mariam Puspita Dewi",
-  "meta-og-image": "/images/half cicle flower.png",
+  "meta-og-image": "//images/couple/couple.jpeg",
   "meta-og-site-name": "Engagement of Iwan Apandi & Mariam Puspita Dewi",
   "meta-og-desc": "",
 
