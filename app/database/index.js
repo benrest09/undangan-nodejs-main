@@ -21,17 +21,17 @@ const data = {
 
   "nama-pasangan": "Iwan Apandi & Mariam Puspita Dewi",
   "foto-pasangan-undangan": "",
-  "tanggal-pernikahan-full": "15-06-2024",
+  "tanggal-pernikahan-full": "2024-06-15",
   "tanggal-pernikahan": 15,
   "bulan-pernikahan": 6,
   "tahun-pernikahan": 2024,
-  "jam-pernikahan": 9,
+  "jam-pernikahan": 19,
   "menit-pernikahan": 0,
 
   "gcalendar-pernikahan": "https://calendar.app.google/gbrLjM9RheD1pVoW7",
 
   "nama-mempelai-pria": "Iwan Apandi",
-  "foto-mempelai-pria": "/images/couple/DSCF3118.jpeg",
+  "foto-mempelai-pria": "/images/couple/foto iwan.jpeg",
   "ket-mempelai-pria": "Putra ke-2 dari",
   "ayah-mempelai-pria": "Bapak Tatang",
   "ibu-mempelai-pria": "Ibu Aisah",
@@ -39,7 +39,7 @@ const data = {
 
 
   "nama-mempelai-wanita": "Mariam Puspita Dewi",
-  "foto-mempelai-wanita": "/images/couple/mariam.jpeg",
+  "foto-mempelai-wanita": "/images/couple/foto mariam.jpeg",
   "ket-mempelai-wanita": "Putri ke-1 dari",
   "ayah-mempelai-wanita": "Bapak Hardo Gunawan",
   "ibu-mempelai-wanita": "Ibu Diah Kusnanti",
@@ -47,7 +47,7 @@ const data = {
 
   "hari-akad": "Sabtu",
   "tanggal-akad": "15 Juni 2024",
-  "waktu-mulai-akad": "09.00",
+  "waktu-mulai-akad": "19.00",
   "waktu-selesai-akad": "selesai",
   "alamat-akad": "Rumah Mempelai Wanita",
   "gmaps-alamat-akad": "https://maps.app.goo.gl/5979QzKk1o8AXcAg6",
