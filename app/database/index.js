@@ -52,7 +52,7 @@ const data = {
   "alamat-akad": "Rumah Mempelai Wanita",
   "gmaps-alamat-akad": "https://maps.app.goo.gl/5979QzKk1o8AXcAg6",
 
-  "foto-pasangan-1": "/images/couple/DSCF3199.jpg",
+ "foto-pasangan-1": "/images/couple/DSCF3199.jpg",
   "foto-pasangan-2": "/images/couple/DSCF3183.jpg",
   "foto-pasangan-3": "/images/couple/DSCF3152.jpg",
   "foto-pasangan-4": "/images/couple/DSCF3125.jpg",
